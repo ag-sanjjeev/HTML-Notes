@@ -1,8 +1,8 @@
-# &#9873; Usage Guide
+## &#9873; Usage Guide
 
 This usage guide will give explanation about creating and running HTML in your computer.
 
-## &#10022; Creating HTML File
+### &#10022; Creating HTML File
 
 - HTML files can be created using simple text editors or professional code editors.
 - For creating a HTML file, First open the new file in the your preferred editor.
@@ -11,7 +11,7 @@ This usage guide will give explanation about creating and running HTML in your c
 - The file extension to be either **`.htm`** or **`.html`** that you preferred. Which doesn't make any difference.
 - When it comes to editing an existing HTML file, Then open the file in the editor to make changes. Finally save to apply changes.
 
-## &#10022; Running HTML File
+### &#10022; Running HTML File
 
 - HTML files can be run and viewed in the web browser applications.
 - When trying to run the specific HTML file, First **`navigate`** to the file location.

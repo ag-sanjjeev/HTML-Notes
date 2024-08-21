@@ -1,4 +1,4 @@
-# &#9873; Introduction to HTML
+## &#9873; Introduction to HTML
 
 HTML is the standard markup language for the Web Pages. With HTML, You can create your own static web pages and websites.
 
@@ -24,7 +24,7 @@ HTML has tags. That is the skeleton of the web page. Which defines how the conte
 
 > These `<` &nbsp; `>` angle brackets are used to denote tags in HTML.
 
-## &#10022; Syntax of Tags
+### &#10022; Syntax of Tags
 
 - The tag is formed by open `<` angle bracket followed by `tagname` and ends with close `>`   
 
