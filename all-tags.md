@@ -5,7 +5,7 @@ Here is the complete list of html tags.
 ### &#10022; List of all HTML5 tags:
 
 1. `<!-- -->` - [Comment Tag](tags/comment-tag.md)
-2. `<!DOCTYPE>` - [Doctype Tag](tags/doctype-tag.md)
+2. `<!DOCTYPE>` - [Doctype](tags/doctype.md)
 3. `<a>` - [Anchor Tag](tags/a-tag.md), 
 4. `<abbr>` - [Abbreviation Tag](tags/abbreviation-tag.md)
 5. `<address>` - [Address Tag](tags/address-tag.md)

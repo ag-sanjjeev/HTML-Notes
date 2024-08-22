@@ -53,6 +53,6 @@ See this [`Code Reference`](../code/comment-tag.html)
 ---
 [&#8682; To Top](#-comment-tag)
 
-[&#10094; Previous Topic](../all-tags.md) &emsp; [Next Topic &#10095;](./doctype-tag.md)
+[&#10094; Previous Topic](../all-tags.md) &emsp; [Next Topic &#10095;](./doctype.md)
 
 [&#8962; Goto Home Page](../README.md) &emsp; [&#9776; Goto All Tags](../all-tags.md)
