@@ -274,6 +274,6 @@ See this [`Writingsuggestions Reference`](./writingsuggestions-attributes.md)
 ---
 [&#8682; To Top](#-attributes-and-properties)
 
-[&#10094; Previous Topic](../all-tags.md) &emsp; [Next Topic &#10095;](./events-tag.md)
+[&#10094; Previous Topic](../all-tags.md) &emsp; [Next Topic &#10095;](./events.md)
 
 [&#8962; Goto Home Page](../README.md) 
