@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Canvas Tag Code Reference</title>
+</head>
+<body>
+
+	<!-- Canvas Tag -->
+	<canvas id="myGraphics"></canvas>
+
+	<script type="text/javascript">
+		let myGraphics = document.getElementById('myGraphics');
+		let context = myGraphics.getContext('2d');
+
+		context.fillStyle = '#3CBB20';
+		context.fillRect(10, 10, 60, 60);
+	</script>	
+</body>
+</html>
