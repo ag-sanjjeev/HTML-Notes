@@ -12,7 +12,7 @@ This `<button>` tag is an interactive and click-able HTML element. Which is used
 
 Simple `<button>` tag created as, 
 ```xml
-<button type="{{button-type}}">{{Button Text/Action Name}}</button>>
+<button type="{{button-type}}">{{Button Text/Action Name}}</button>
 ```
 
 ### &#10022; Attributes and Properties:
