@@ -1,5 +1,7 @@
-## &#9873; Datalist Tag
-This `<datalist>` tag is used to recommend predefined available options to the HTML input element.
+## &#9873; Description Definition Tag
+This `<dd>` tag is used to specify the definition for the description term in the description list.
+
+*This `<dd>` tag can be used with `<dt>` description term tag inside the `<dl>` description list tag.*
 
 ### &#9780; Overview:
 1. [Syntax](#-syntax),
@@ -10,11 +12,9 @@ This `<datalist>` tag is used to recommend predefined available options to the H
 
 ### &#10022; Syntax:
 
-Simple `<datalist>` tag created as, 
+Simple `<dd>` tag created as, 
 ```xml
-<datalist id="{{unique-identification}}">
-	<option value="{{recommended-options}}">
-</datalist>
+<dd>{{Description Definition for the term}}</dd>
 ```
 
 ### &#10022; Attributes and Properties:
@@ -24,20 +24,22 @@ This can support most of the standard [attributes and properties](../docs/attrib
 This can support most of the standard [events](../docs/events.md).
 
 ### &#10022; Examples:
-> Example for `<datalist>` tag
+> Example for `<dd>` tag
 ```xml
-<input list="groceries" name="grocery" id="grocery-item">
-<datalist id="groceries">
-	<option value="Fruits">
-</datalist>
+<dl>
+	<dt>Fountain Pen</dt>
+	<dd>Black and Golden nip</dd>
+	<dt>Gel Pen</dt>	
+	<dd>Green and Pall Point</dd>
+</dl>
 ```
 
 ### &#10022; Code Reference:
-See this [`Code Reference`](../code/datalist-tag.html)
+See this [`Code Reference`](../code/dd-tag.html)
 
 ---
-[&#8682; To Top](#-datalist-tag)
+[&#8682; To Top](#-description-definition-tag)
 
-[&#10094; Previous Topic](./data-tag.md) &emsp; [Next Topic &#10095;](./dd-tag.md)
+[&#10094; Previous Topic](./datalist-tag.md) &emsp; [Next Topic &#10095;](./del-tag.md)
 
 [&#8962; Goto Home Page](../README.md) &emsp; [&#9776; Goto All Tags](../all-tags.md)
