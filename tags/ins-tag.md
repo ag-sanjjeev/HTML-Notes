@@ -28,7 +28,7 @@ This can support most of the standard [events](../docs/events.md).
 ### &#10022; Examples:
 > Example for `<ins>` tag
 ```xml
-<ins cite="./changes-in-terms.html" datetime="2024-08-26T10:30:00Z">Agreement 2.0 Applied</del>
+<ins cite="./changes-in-terms.html" datetime="2024-08-26T10:30:00Z">Agreement 2.0 Applied</ins>
 ```
 
 ### &#10022; Code Reference:
