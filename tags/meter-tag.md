@@ -32,7 +32,7 @@ And also support some other below:
 This can support most of the standard [events](../docs/events.md).
 
 ### &#10022; Examples:
-> Example for `<meter>` tag to setting character set
+> Example for `<meter>` tag
 ```xml
 <meter value="10" min="0" max="1000"></meter>
 ```
