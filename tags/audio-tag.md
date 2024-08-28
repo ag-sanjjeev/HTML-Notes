@@ -1,7 +1,7 @@
 ## &#9873; Audio Tag
 This `<audio>` tag is used to embed sound content in the HTML document. 
 
-*This sound contents can be embedded using `src=""` attribute or using [source tag](./source-tag-md). It may contain one or more audio contents. Browser will choose one of the first source supports to play.*
+*This sound contents can be embedded using `src=""` attribute or using [`<source>`](./source-tag.md) tag. It may contain one or more audio contents. Browser will choose one of the first source supports to play.*
 
 ### &#9780; Overview:
 1. [Syntax](#-syntax),
