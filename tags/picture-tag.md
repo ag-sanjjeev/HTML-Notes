@@ -1,5 +1,5 @@
 ## &#9873; Picture Tag
-This `<picture>` tag is used to display images for different viewport setting..
+This `<picture>` tag is used to display images for different viewport setting.
 
 *This will match `media` attribute in the [`<source>`](./source-tag.md) elements and display the respective image. And if none of the `media` attributes matches then the last [`<img>`](./img-tag.md) element to be displayed.*
 
