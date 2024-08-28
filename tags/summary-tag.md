@@ -1,7 +1,5 @@
-## &#9873; Details Tag
-This `<details>` tag is used to add widget of information that open and close on demand.
-
-*This `<details>` tag can be effectively used with [`<summary>`](./summary-tag.md) tag.*
+## &#9873; Summary Tag
+This `<summary>` tag is used to add summary or caption for [`<details>`](./details-tag.md) element.
 
 ### &#9780; Overview:
 1. [Syntax](#-syntax),
@@ -11,24 +9,22 @@ This `<details>` tag is used to add widget of information that open and close on
 5. [Code Reference](#-code-reference)
 
 ### &#10022; Syntax:
-Simple `<details>` tag created as, 
+Simple `<summary>` tag created as, 
 ```xml
 <details>
-	<summary>{{content summary}}</summary>
+	<summary>{{summary or caption}}</summary>
 	{{actual content}}
 </details>
 ```
 
 ### &#10022; Attributes and Properties:
 This can support most of the standard [attributes and properties](../docs/attributes-and-properties.md).
-And also support some other below:
-1. **open** - It specifies the details to open by default.
 
 ### &#10022; Event Attributes:
 This can support most of the standard [events](../docs/events.md).
 
 ### &#10022; Examples:
-> Example for `<del>` tag
+> Example for `<summary>` tag 
 ```xml
 <details>
 	<summary>RAM</summary>
@@ -37,11 +33,11 @@ This can support most of the standard [events](../docs/events.md).
 ```
 
 ### &#10022; Code Reference:
-See this [`Code Reference`](../code/details-tag.html)
+See this [`Code Reference`](../code/summary-tag.html)
 
 ---
-[&#8682; To Top](#-details-tag)
+[&#8682; To Top](#-summary-tag)
 
-[&#10094; Previous Topic](./del-tag.md) &emsp; [Next Topic &#10095;](./dfn-tag.md)
+[&#10094; Previous Topic](./sub-tag.md) &emsp; [Next Topic &#10095;](./sup-tag.md)
 
 [&#8962; Goto Home Page](../README.md) &emsp; [&#9776; Goto All Tags](../all-tags.md)
