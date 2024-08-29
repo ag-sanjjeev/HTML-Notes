@@ -1,7 +1,7 @@
-## &#9873; Table Body Tag
-This `<tbody>` tag is used to specifies body or main part of the tabular information in the HTML document.
+## &#9873; Table Row Tag
+This `<tr>` tag is used to specifies the row of the tabular information in the HTML document.
 
-*This consist of [`tabular rows`](./tr-tag.md) and [`tabular cells`](./td-tags.md).*
+*This consist of [`tabular cells`](./td-tag.md). Which holds data.*
 
 ### &#9780; Overview:
 1. [Syntax](#-syntax),
@@ -11,12 +11,15 @@ This `<tbody>` tag is used to specifies body or main part of the tabular informa
 5. [Code Reference](#-code-reference)
 
 ### &#10022; Syntax:
-Simple `<tbody>` tag created as, 
+Simple `<tr>` tag created as, 
 ```xml
 <table>
 	...
 	<tbody>
-		<tr>...</tr>
+		<tr>
+			<td>...</td>
+			<td>...</td>
+		</tr>
 		<tr>...</tr>
 	</tbody>
 </table>
@@ -29,7 +32,7 @@ This can support most of the standard [attributes and properties](../docs/attrib
 This can support most of the standard [events](../docs/events.md).
 
 ### &#10022; Examples:
-> Example for `<tbody>` tag
+> Example for `<tr>` tag
 ```xml
 <table>
 	<caption>Staff Report</caption>
@@ -69,11 +72,11 @@ This can support most of the standard [events](../docs/events.md).
 ```
 
 ### &#10022; Code Reference:
-See this [`Code Reference`](../code/tbody-tag.html)
+See this [`Code Reference`](../code/tr-tag.html)
 
 ---
-[&#8682; To Top](#-table-body-tag)
+[&#8682; To Top](#-table-row-tag)
 
-[&#10094; Previous Topic](./table-tag.md) &emsp; [Next Topic &#10095;](./td-tag.md)
+[&#10094; Previous Topic](./title-tag.md) &emsp; [Next Topic &#10095;](./track-tag.md)
 
 [&#8962; Goto Home Page](../README.md) &emsp; [&#9776; Goto All Tags](../all-tags.md)
