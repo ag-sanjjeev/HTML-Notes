@@ -26,7 +26,9 @@ HTML has tags. That is the skeleton of the web page. Which defines how the conte
 
 ### &#10022; Syntax of Tags
 
-- The tag is formed by open `<` angle bracket followed by `tagname` and ends with close `>`   
+- The tag is formed by open `<` angle bracket followed by `tagname` and ends with close `>` 
+- For [Void Elements](./void-elements.md), the end tag is neither required not allowed. 
+- Self Closing tags are not exist in HTML. But it required [Void Elements](./void-elements.md) in XML, XHTML and SVG elements.
 
 ---
 

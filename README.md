@@ -20,8 +20,9 @@ This repository contains topics and notes on `HTML` Language to learn and practi
 13. [HTML5 Semantic Tags](docs/html-semantic-tags.md)
 14. [Comment Tags](docs/comment-tags.md)
 15. [All Tags](./all-tags.md)
-16. [Attributes and Properties](docs/attributes-and-properties.md)
-17. [Events](docs/events.md)
+16. [Void Elements](./void-elements.md)
+17. [Attributes and Properties](docs/attributes-and-properties.md)
+18. [Events](docs/events.md)
 
 ## &#9873; Contribution
 
