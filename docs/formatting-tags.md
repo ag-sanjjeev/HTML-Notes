@@ -23,6 +23,6 @@ Here is the list formatting tags used to style text.
 ---
 [&#8682; To Top](#-formatting-tags)
 
-[&#10094; Previous Topic](./headings.md)&emsp;[Next Topic &#10095;](./links.md)
+[&#10094; Previous Topic](./headings.md)&emsp;[Next Topic &#10095;](./lists.md)
 
 [&#8962; Goto Home Page](../README.md)
