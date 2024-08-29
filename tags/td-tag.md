@@ -1,7 +1,7 @@
-## &#9873; Table Body Tag
-This `<tbody>` tag is used to specifies body or main part of the tabular information in the HTML document.
+## &#9873; Table Data Cell Tag
+This `<td>` tag is used to specifies the data cell of the tabular information in the HTML document.
 
-*This consist of [`tabular rows`](./tr-tag.md) and [`tabular cells`](./td-tag.md).*
+*This always child element of [`tabular rows`](./tr-tag.md).*
 
 ### &#9780; Overview:
 1. [Syntax](#-syntax),
@@ -11,12 +11,15 @@ This `<tbody>` tag is used to specifies body or main part of the tabular informa
 5. [Code Reference](#-code-reference)
 
 ### &#10022; Syntax:
-Simple `<tbody>` tag created as, 
+Simple `<td>` tag created as, 
 ```xml
 <table>
 	...
 	<tbody>
-		<tr>...</tr>
+		<tr>
+			<td>...</td>
+			<td>...</td>
+		</tr>
 		<tr>...</tr>
 	</tbody>
 </table>
@@ -24,12 +27,16 @@ Simple `<tbody>` tag created as,
 
 ### &#10022; Attributes and Properties:
 This can support most of the standard [attributes and properties](../docs/attributes-and-properties.md).
+And also support some other below:
+1. **headers** - It specifies that one or more header cells a cell is related to it.
+1. **rowspan** - It specifies the number of rows to be span for a cell.
+1. **colspan** - It specifies the number of cells to be span for a cell.
 
 ### &#10022; Event Attributes:
 This can support most of the standard [events](../docs/events.md).
 
 ### &#10022; Examples:
-> Example for `<tbody>` tag
+> Example for `<td>` tag
 ```xml
 <table>
 	<caption>Staff Report</caption>
@@ -69,11 +76,11 @@ This can support most of the standard [events](../docs/events.md).
 ```
 
 ### &#10022; Code Reference:
-See this [`Code Reference`](../code/tbody-tag.html)
+See this [`Code Reference`](../code/td-tag.html)
 
 ---
-[&#8682; To Top](#-table-body-tag)
+[&#8682; To Top](#-table-data-cell-tag)
 
-[&#10094; Previous Topic](./table-tag.md) &emsp; [Next Topic &#10095;](./td-tag.md)
+[&#10094; Previous Topic](./tbody-tag.md) &emsp; [Next Topic &#10095;](./template-tag.md)
 
 [&#8962; Goto Home Page](../README.md) &emsp; [&#9776; Goto All Tags](../all-tags.md)
