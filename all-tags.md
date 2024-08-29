@@ -135,6 +135,6 @@ Here is the complete list of html tags.
 ---
 [&#8682; To Top](#-all-tags)
 
-[&#10094; Previous Topic](docs/comment-tags.md)&emsp;[Next Topic &#10095;](./void-elements.md)
+[&#10094; Previous Topic](docs/html5-semantic-tags.md)&emsp;[Next Topic &#10095;](./void-elements.md)
 
 [&#8962; Goto Home Page](./README.md)
