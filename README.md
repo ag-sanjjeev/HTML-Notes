@@ -14,7 +14,7 @@ This repository contains __the basic and essential__ topics and their notes with
 5. [Lists](docs/lists.md)
 6. [Tables](docs/tables.md)
 7. [Forms](docs/forms.md)
-8. [Multimedia and Embedded Content Tags](docs/multimedia-and-embedded-content-tags.md)
+8. [Multimedia and Embedded Content](docs/multimedia-and-embedded-content.md)
 9. [Scripting and Styling](docs/scripting-and-styling.md)
 10. [HTML5 Semantic Tags](docs/html-semantic-tags.md)
 11. [All Tags](./all-tags.md)

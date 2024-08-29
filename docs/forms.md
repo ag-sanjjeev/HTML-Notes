@@ -24,6 +24,6 @@ Here is the list of tags used to create the HTML Forms.
 ---
 [&#8682; To Top](#-forms)
 
-[&#10094; Previous Topic](./tables.md)&emsp;[Next Topic &#10095;](./multimedia-and-embedded-content-tags.md)
+[&#10094; Previous Topic](./tables.md)&emsp;[Next Topic &#10095;](./multimedia-and-embedded-content.md)
 
 [&#8962; Goto Home Page](../README.md)
