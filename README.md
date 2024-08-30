@@ -1,8 +1,8 @@
 # HTML NOTES
 
-This repository contains __the basic and essential__ topics and their notes with examples to learn and under the __`HTML`__ Language as beginner.
+This repository contains __the basic and essential__ topics and their notes with examples to learn and understand the __`HTML`__ Language as beginner.
 
-*Refer the below contents, To kick start the learning the HTML. which gives you __step by step__ approach to th HTML Language.*
+*Refer the below contents, To kick start the learning of HTML. which gives you __step by step__ approach to the HTML Language.*
 \
 &nbsp;
 
